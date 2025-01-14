@@ -273,7 +273,5 @@ box-shadow: 0 0 10px 2px var(--secondary-color);
 @media (max-width:295px) {
     h1, h2{
       font-size: 100px;
-    }
-
-    
+    }  
 }
