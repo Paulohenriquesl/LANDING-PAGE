@@ -270,8 +270,12 @@ box-shadow: 0 0 10px 2px var(--secondary-color);
     }
 
 
-@media (max-width:295px) {
-    h1, h2{
-      font-size: 100px;
-    }  
+@media (max-width:370px) and (max-width:799px) {
+    h1{
+      font-size: 7rem;
+    } 
+    
+    h2{
+        font-size: 3rem;
+    }
 }
